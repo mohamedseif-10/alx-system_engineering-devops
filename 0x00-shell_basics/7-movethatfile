@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /tmp/my_fitsr_directory 
+mv /tmp/7-movethatfile /tmp/my_first_directory
